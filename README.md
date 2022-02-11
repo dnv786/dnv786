@@ -1,7 +1,7 @@
 - 👋 Hello there, my name is Arjee Jacob Jacob
 - 👀 I’m interested in inventing and engineering.
 - 🌱 I’m currently learning Embedded Linux and Microcontrollers
-- 💞️ I would be interested to collaborate on building kernel images for microcontrollers for specific applications.
+- 💞️ I may not be available for collaborating at the moment, but this will change.
 - 📫 E-mail : dnv786@zebra.com
 
 <!---
