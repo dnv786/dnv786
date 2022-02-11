@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arjee Jacob Jacob
+- 👋 Hello there, my name is Arjee Jacob Jacob
 - 👀 I’m interested in inventing and engineering.
 - 🌱 I’m currently learning Embedded Linux and Microcontrollers
 - 💞️ I would be interested to collaborate on building kernel images for microcontrollers for specific applications.
