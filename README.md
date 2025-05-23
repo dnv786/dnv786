@@ -1,6 +1,6 @@
 - 👋 Hello there, my name is Arjee Jacob Jacob
 - 👀 I’m interested in inventing and engineering.
-- 🌱 I’m currently learning Embedded Linux , Yocto and Rust.
+- 🌱 I’m currently learning , Yocto Project, Rust, and Godot.
 - 📫 E-mail : dnv786@zebra.com
 
 <!---
